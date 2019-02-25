@@ -6,6 +6,8 @@ It's basically a header including a Hamburger Menu if the Screens made available
 
 Download: [HamburgerMenuConcept.msapp](./HamburgerMenuConcept.msapp)
 
+![HamburgerMenuConcept GIF](./HamburgerMenuConcept.gif)
+
 ## Set it up
 
 In the App OnStart Action, add the code block below, and modify it to fit your app
