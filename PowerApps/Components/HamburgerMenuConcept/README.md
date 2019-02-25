@@ -33,7 +33,11 @@ ClearCollect(
 )
 ```
 
-Then add the comonent, and you should be ready to go.
+* `Label` - Text value shown on the menu button for this screen
+* `DisplayName` - Text value shown on the screen heading
+* `Screen` - Screen that should be shown. (Note that this one needs to be referencing a valid screen within your app
+
+Then add the component, and you should be ready to go.
 
 ## More resources
 
