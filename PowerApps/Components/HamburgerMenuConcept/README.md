@@ -33,5 +33,5 @@ Then add the comonent, and you should be ready to go.
 
 ## More resources
 
-* [Introducing canvas components)(https://powerapps.microsoft.com/en-us/blog/components-available-in-preview/)
+* [Introducing canvas components](https://powerapps.microsoft.com/en-us/blog/components-available-in-preview/)
 * [PowerApps Gallery Navigation](https://powerusers.microsoft.com/t5/General-Discussion/PowerApps-Gallery-Navigation-Help/td-p/59958)
