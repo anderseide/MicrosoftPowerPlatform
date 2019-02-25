@@ -1,2 +1,2 @@
 # MicrosoftPowerPlatform
-A bunch of stuff reusable content for Microsoft Power Platform
+Just a bunch of reusable content for Microsoft Power Platform
