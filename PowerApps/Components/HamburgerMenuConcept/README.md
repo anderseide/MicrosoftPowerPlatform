@@ -8,7 +8,7 @@ It's basically a header including a Hamburger Menu if the Screens made available
 
 In the App OnStart Action, add the code block below, and modify it to fit your app
 
-```json
+```
 ClearCollect(
     colScreensMenu,
     {
